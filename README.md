@@ -1,5 +1,4 @@
-# Arduino_1
-Udemy Arduino Course For Beginners
+# Udemy Arduino Course For Beginners
 
 # Who this course is for:
 
